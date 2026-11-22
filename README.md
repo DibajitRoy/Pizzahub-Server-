@@ -71,3 +71,5 @@ Replace `admin@example.com` with the account email. Sign in using the password c
 
 - **Live Client:** [PizzaHub](https://pizzahub-client-alpha-wine.vercel.app/)
 - **Client Repository:** [Pizzahub-Client-](https://github.com/DibajitRoy/Pizzahub-Client-)
+- **Live API:** https://pizzahub-server-nine.vercel.app/
+**Server Repository:** [Pizzahub-Server-](https://github.com/DibajitRoy/Pizzahub-Server-)
